@@ -1,6 +1,6 @@
 import React from "react";
 import type { Movie } from "../Types/movieTypes";
-import BlurText from "./ui/Blurtext";
+import BlurText from "./ui/TempBlurText";
 
 type Props = {
   editForm: Movie;
